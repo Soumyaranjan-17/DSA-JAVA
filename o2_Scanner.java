@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class o2Scanner {
+public class o2_Scanner {
     public static void main(String[] args){
         int a, b, c;
 

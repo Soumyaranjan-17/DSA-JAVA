@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class o3ControlFlowIfElse {
+public class o3_ControlFlowIfElse {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         

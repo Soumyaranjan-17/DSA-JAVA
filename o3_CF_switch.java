@@ -1,4 +1,4 @@
-public class o3CF_switch {
+public class o3_CF_switch {
     public static void main(String[] args) {
         int n = 3;
         String month;

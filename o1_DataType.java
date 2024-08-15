@@ -1,4 +1,4 @@
-public class o1DataType {
+public class o1_DataType {
     public static void main(String[] args) {
         byte a = -127;
         short b = 2;
