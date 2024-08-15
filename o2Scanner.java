@@ -11,6 +11,6 @@ public class o2Scanner {
         c = a+b;
 
         System.out.println("Sum of " + a + " and " + b + " = " + c);
-        // sc.close();
+        sc.close();
     }
 }
