@@ -1,4 +1,4 @@
-public class o4_pattern_2 {
+public class o4_Pattern_2 {
     public static void main(String[] args) {
         for (int i = 0; i < 5; i++){
             for (int j = 0; j < i; j++){

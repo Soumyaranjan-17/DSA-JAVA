@@ -1,4 +1,4 @@
-public class o4_pattern_3 {
+public class o4_Pattern_3 {
     public static void main(String[] args) {
         for (int i = 0; i < 5; i++) {
             for (int j = 5; j > i; j--) {
@@ -8,3 +8,11 @@ public class o4_pattern_3 {
         }
     }    
 }
+
+// OUTPUT
+
+// * * * * * 
+// * * * * 
+// * * * 
+// * * 
+// * 

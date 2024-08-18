@@ -1,26 +1,18 @@
-public class o4_pattern_5 {
+public class o4_Pattern_5 {
     public static void main(String[] args) {
-        int n = 5;
-        for (int i = 1; i <= n; i++) {
-            // to print space
-            for (int j = 1; j <= n - i; j++) {
-                System.out.print(" ");
-            }
-
-            // to print star
-            for(int j = 1; j <= i; j++) {
-                System.out.print("*");
+        for (int i = 0; i < 5; i++) {
+            for (int j = 0; j <= i; j++) {
+                System.out.print(j+1 + " ");
             }
             System.out.println();
-        }
-
+        }   
     }
 }
 
 // OUTPUT
 
-// *
-// **
-// ***
-// ****
-// *****
+// 1 
+// 1 2
+// 1 2 3
+// 1 2 3 4
+// 1 2 3 4 5
