@@ -1,6 +1,8 @@
 public class o5_Ex_6 {
 
     public static int gcd(int a, int b) { 
+        if (b == 0) return a;
+
         int r = a % b;
         while (r != 0){
             a = b;
